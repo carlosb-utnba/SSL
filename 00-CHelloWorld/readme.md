@@ -36,7 +36,7 @@ Repositorio personal para la materia Sistemas y Software de Laboratorio (SSL), U
 ## Trabajo
 
 // hello.c
-```
+
 
 #include <stdio.h>
 
@@ -44,8 +44,6 @@ int main(void) {
     printf("Hello, World!\n");
     return 0;
 }
-
-```
 
 
 ### En la consola de WSL
