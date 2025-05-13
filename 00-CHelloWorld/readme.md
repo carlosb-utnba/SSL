@@ -29,7 +29,6 @@
 2. Agregar un archivo `readme.md` con esta estructura inicial:
 
 ```markdown
-# Carlos Boyatjian – SSL
 
 Repositorio personal para la materia Sistemas y Software de Laboratorio (SSL), UTN FRBA.
 
